@@ -1,0 +1,82 @@
+[
+  {
+    "name": "MacBook Air M3 13-inch",
+    "brand": "Apple",
+    "category": "laptop",
+    "price": 1099,
+    "stock": 25,
+    "rating": 4.8,
+    "specs": { "ram": "16GB", "storage": "512GB SSD", "processor": "Apple M3" },
+    "featured": true
+  },
+  {
+    "name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptop",
+    "price": 1499,
+    "stock": 12,
+    "rating": 4.6,
+    "specs": { "ram": "32GB", "storage": "1TB SSD", "processor": "Intel Core i7" },
+    "featured": false
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "category": "smartphone",
+    "price": 999,
+    "stock": 40,
+    "rating": 4.7,
+    "specs": { "ram": "8GB", "storage": "256GB", "display": "6.1-inch OLED" },
+    "featured": true
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "smartphone",
+    "price": 1199,
+    "stock": 30,
+    "rating": 4.7,
+    "specs": { "ram": "12GB", "storage": "512GB", "display": "6.8-inch AMOLED" },
+    "featured": true
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "headphone",
+    "price": 349,
+    "stock": 50,
+    "rating": 4.8,
+    "specs": { "type": "Over-ear", "battery": "30 hours", "noiseCancelling": true },
+    "featured": false
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "brand": "Logitech",
+    "category": "accessory",
+    "price": 99,
+    "stock": 80,
+    "rating": 4.6,
+    "specs": { "type": "Wireless Mouse", "dpi": "8000", "battery": "70 days" },
+    "featured": false
+  },
+  {
+    "name": "iPad Pro 11-inch",
+    "brand": "Apple",
+    "category": "tablet",
+    "price": 799,
+    "stock": 18,
+    "rating": 4.7,
+    "specs": { "ram": "8GB", "storage": "256GB", "processor": "Apple M4" },
+    "featured": false
+  },
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "category": "smartwatch",
+    "price": 299,
+    "stock": 35,
+    "rating": 4.4,
+    "specs": { "display": "1.5-inch AMOLED", "battery": "40 hours", "waterResistant": true },
+    "featured": true
+  }
+]
